@@ -1,0 +1,1 @@
+# Automated-Disaster-Management-System
